@@ -1,0 +1,14 @@
+# Node modules
+node_modules/
+
+# Файли середовища
+.env
+
+# Лог-файли
+*.log
+
+# Вбудовані файли (typescript)
+dist/
+
+# Системні файли
+.DS_Store
